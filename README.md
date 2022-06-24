@@ -1,5 +1,5 @@
 # ImageThresholding
-This program applies thresholding to three images of keys. The percentile method uses the following percentages on each image:
+This program applies thresholding to three images of keys. The percentile method uses three percentages on each image:
 - 30%
 - 50%
 - 60%
